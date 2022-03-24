@@ -1,0 +1,8 @@
+https://wandertears.com/ -O "/Users/jared/websites/trailerwebsite3" -P none:8080 -%v none none
+File generated automatically on Thu, 24 Mar 2022 16:28:14, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
